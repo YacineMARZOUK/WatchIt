@@ -1,0 +1,11 @@
+com\streamvid\video\service\impl\VideoServiceImpl.class
+com\streamvid\video\controller\VideoController.class
+com\streamvid\video\mapper\VideoMapper.class
+com\streamvid\video\mapper\VideoMapperImpl.class
+com\streamvid\video\config\DataInitializer.class
+com\streamvid\video\service\VideoService.class
+com\streamvid\video\VideoServiceApplication.class
+com\streamvid\video\dto\VideoDTO.class
+com\streamvid\video\repository\VideoRepository.class
+com\streamvid\video\entity\Video$VideoBuilder.class
+com\streamvid\video\entity\Video.class
